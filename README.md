@@ -4,6 +4,8 @@
 
 I am interested in data-driven methods for lithium-ion battery health estimation and intelligent energy management in electrified vehicles. My work combines battery experiments, time-series modeling, transfer learning, optimization, and engineering-oriented evaluation.
 
+[Research Website](https://zr057.github.io) · [Selected Projects](https://zr057.github.io/#research)
+
 ## Research interests
 
 - Lithium-ion battery state-of-health estimation and prognostics
